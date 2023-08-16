@@ -1,0 +1,17 @@
+{
+ "id": "/",
+ "scope": "/",
+ "start_url": "/",
+ "name": "___",
+ "short_name": "___",
+ "description": "___",
+ "theme_color": "#000",
+ "background_color": "#000",
+ "display": "standalone",
+ "screenshots": [],
+ "icons": [{
+  "src": "icon.png",
+  "sizes": "256x256",
+  "type": "image/png"
+ }]
+}
